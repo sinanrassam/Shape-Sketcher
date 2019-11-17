@@ -39,7 +39,7 @@ import javax.swing.JRadioButton;
 
 /**
  *
- * @author mvn2409
+ * @author sinan
  */
 public class ShapeSketcher extends JPanel implements ActionListener {
 

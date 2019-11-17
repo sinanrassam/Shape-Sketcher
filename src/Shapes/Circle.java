@@ -1,3 +1,6 @@
+/*
+ * A class that represents a circle.
+ */
 package Shapes;
 
 import java.awt.Graphics;
